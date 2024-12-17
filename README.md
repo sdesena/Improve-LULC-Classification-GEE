@@ -5,6 +5,8 @@ This repository presents a comprehensive workflow for building **Land Use and La
 
 This project aims to address these challenges and improve the overall accuracy by providing clear strategies and methodologies.
 
+Check out my [Medium Post](https://medium.com/@sandrosena/improve-land-use-and-land-cover-classification-in-google-earth-engine-124c013e36ef) to learn how to avoid pitfalls and enhance your analysis, diving deeper into the methodology and results. 
+
 ---
 
 ## **Workflow Steps**
